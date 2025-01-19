@@ -1,4 +1,0 @@
-#!/bin/bash
-sudo rm -rf /var/www/krkm-space/*
-sudo cp ~/projects/krkm-space/* /var/www/krkm-space/
-sudo rm /var/www/krkm-space/save
